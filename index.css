@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding:0%;    
+    box-sizing: border-box;
+}
+.text-style{
+    font-size: 100px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+    font-weight: bold;
+    color:rebeccapurple;
+    cursor: pointer;
+}
+.Microsoft{
+    width: 400px;
+    margin: 25px auto;
+    margin-top: 100px;
+    /* margin-bottom: 300px; */
+    cursor: pointer;
+}
+.red{
+   background-color: red; 
+   width:150px;
+   height:150px;
+   margin:0px 10px 10px 0px;
+   float:left;
+}
+.green{
+    background-color:green; 
+    width:150px;
+    height:150px;
+    margin:0px 10px 10px 0px;
+    float:left;
+ }
+ .yellow{
+    background-color:yellow; 
+    width:150px;
+    height:150px;
+    margin:0px 10px 10px 0px;
+    float:left;
+ }
+ .blue{
+    background-color: blue; 
+    width:150px;
+    height:150px;
+    margin:0px 10px 10px 0px;
+    float:left;
+ }
